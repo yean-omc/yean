@@ -2,12 +2,16 @@ project:
   type: website
 
 website:
-  title: "Yean"
+  title: "예안(YEAN)"
   navbar:
+    logo: ./img/yean-logo.png
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: 예안한의원홈
+      - 예안클리닉.qmd
+      - 예안패키지.qmd
+      - 예안치료사례.qmd
+      - 예안한의원소개.qmd
 
 format:
   html:

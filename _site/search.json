@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Yean Oriental Medical Clinic",
+    "title": "창원 예안한의원, 내 몸에 꼭 맞는 편안한 진료",
     "section": "",
-    "text": "예안 한의원 홈페이지에 오신 것을 환영합니다.\n\n1 + 1\n\n[1] 2"
+    "text": "예안한의원 홈페이지에 오신 것을 환영합니다."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,33 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "예안클리닉.html",
+    "href": "예안클리닉.html",
+    "title": "예안클리닉",
+    "section": "",
+    "text": "척추 클리닉: 목, 허리디스크, 척추 측만, 협착증, 척추전방전위증\n비염 클리닉: 알러지 비염, 비후성/위축성 비염, 비출혈\n소아 클리닉: 소아비만, 성장부진, 허약아동, 만성감기, 아토피\n부인과 클리닉: 자궁근종, 불임, 내막염, 산후조리\n통증 클리닉: 두통, 현기증, 염좌, 관절염, 근육통\n소화 클리닉: 역류성 식도염, 위무력증, 위하수, 소화불량\n턱관절을 통한 전신교정치료: 턱관절질환, 틱장애, 근이상긴장증( DYSTONIA)"
+  },
+  {
+    "objectID": "예안한의원소개.html",
+    "href": "예안한의원소개.html",
+    "title": "예안한의원소개",
+    "section": "",
+    "text": "예안한의원을 소개드립니다."
+  },
+  {
+    "objectID": "예안치료사례.html",
+    "href": "예안치료사례.html",
+    "title": "예안치료사례",
+    "section": "",
+    "text": "예안한의원에서 치료한 사례에 대해 나눕니다."
+  },
+  {
+    "objectID": "예안패키지.html",
+    "href": "예안패키지.html",
+    "title": "예안패키지",
+    "section": "",
+    "text": "예안한의원에서 받을 수 있는 패키지 서비스에 대해 안내드립니다."
   }
 ]
