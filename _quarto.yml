@@ -12,10 +12,31 @@ website:
       - 예안패키지.qmd
       - 예안치료사례.qmd
       - 예안한의원소개.qmd
+  page-footer:
+    left: |
+      <div style="text-align:right">
+      ![](./img/yean-logo-text.png){width=100}
+      </div>
+      
+    center: |
+      창원시 의창구 사림로 45번길 1  
+      055-237-1775  
+      Copyright© 예안한의원  
+      All Rights Reserved
+
+    right:
+      - icon: facebook
+        href: https://facebook.com/yeanclinic
+      - icon: instagram  
+        href: https://instagram.com/yeanclinic
+      - icon: youtube
+        href: https://youtube.com/yeanclinic
+    background: light
+    border: false
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
     css: styles.css
     toc: true
 
