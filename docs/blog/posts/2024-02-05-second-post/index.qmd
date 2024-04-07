@@ -1,0 +1,20 @@
+---
+title: 기침 콧물 가래 치료
+subtitle: 4살짜리 아이가 좋아졌어요.
+description: |
+  2024년도 1월경 방문하여 3일간 치료후 완쾌되었어요.
+  
+categories:
+  - 감기기
+  - 호흡기
+author: 원장
+date: "02/05/2024"
+image: "kid-cough.jpg"
+image-alt: "감기걸린 어린이 그림입니다."
+---
+
+2024년도 1월경 방문하여 3일간 치료후 완쾌되었어요.
+
+처음 한의원을 방문했을 때는 기침이 너무 심해서 숨쉬기도 힘든 상황이었습니다.
+
+![](kid-cough.jpg){fig-alt="감기걸린 어린이 그림입니다." fig-align="center"}
