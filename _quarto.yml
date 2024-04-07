@@ -8,9 +8,11 @@ website:
     left:
       - href: index.qmd
         text: 예안한의원홈
+      - text: "예안치료사례"
+        href: docs/blog/index.qmd
       - 예안클리닉.qmd
       - 예안패키지.qmd
-      - 예안치료사례.qmd
+      #- 예안치료사례.qmd
       - 예안한의원소개.qmd
   page-footer:
     # left: |
