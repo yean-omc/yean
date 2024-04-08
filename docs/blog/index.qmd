@@ -1,5 +1,5 @@
 ---
-title: 예안한의원 치료사례
+title: 예안한의원 질병연구 내용
 subtitle: 감기, 폐렴, 급성 축농증 등
 listing:
   sort: "date desc"

@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: 예안한의원홈
-      - text: "예안치료사례"
+      - text: "질병소개"
         href: docs/blog/index.qmd
       - 예안클리닉.qmd
       - 예안패키지.qmd
